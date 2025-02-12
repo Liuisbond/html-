@@ -1,6 +1,9 @@
 # html框架结构
 a file for Microsoft visual studio 2022 to init html(代码补全功能文件）
 
+~~没什么用只是为了方便的东西啦!（bushi）~~
+
+
 
 ## how to use 
   1 先下载文件
